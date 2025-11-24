@@ -1,0 +1,10 @@
+{
+    "default_model": "gemini-2.0-flash",
+    "server_name": "127.0.0.1",
+    "server_port": 7870,
+    "autobrowser": true,
+    "gemini_key": "",
+    "pinecone_key": "",
+    "title": "WIT-Library 统一检索AI",
+    "limit_user_num": 100
+}
