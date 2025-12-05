@@ -1,2 +1,0 @@
-As Artificial Intelligence(AI)becomes increasingly sophisticated, there are growing concerns that robots could become a threat.This danger can be avoided, according to computer science professor Stuart Russell, if we figure out how to turn human values into a programmable code.
-Russell argues that as robots take on more complicated tasks, it's necessary to translate our morals into AI language.
